@@ -1,0 +1,16 @@
+C:\Users\Таня\Desktop\Давид\Visual\Формы\Треугольник\Треугольник\bin\Debug\Треугольник.exe
+C:\Users\Таня\Desktop\Давид\Visual\Формы\Треугольник\Треугольник\bin\Debug\Треугольник.pdb
+C:\Users\Таня\Desktop\Давид\Visual\Формы\Треугольник\Треугольник\obj\x86\Debug\Треугольник.Треугольник.resources
+C:\Users\Таня\Desktop\Давид\Visual\Формы\Треугольник\Треугольник\obj\x86\Debug\Треугольник.Properties.Resources.resources
+C:\Users\Таня\Desktop\Давид\Visual\Формы\Треугольник\Треугольник\obj\x86\Debug\Треугольник.csproj.GenerateResource.Cache
+C:\Users\Таня\Desktop\Давид\Visual\Формы\Треугольник\Треугольник\obj\x86\Debug\Треугольник.exe
+C:\Users\Таня\Desktop\Давид\Visual\Формы\Треугольник\Треугольник\obj\x86\Debug\Треугольник.pdb
+C:\Users\Таня\Desktop\Давид\Visual\Формы\Треугольник\Треугольник\obj\x86\Debug\Треугольник.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Билет\Треугольник\Треугольник\bin\Debug\Треугольник.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Билет\Треугольник\Треугольник\bin\Debug\Треугольник.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Билет\Треугольник\Треугольник\obj\x86\Debug\Треугольник.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Билет\Треугольник\Треугольник\obj\x86\Debug\Треугольник.Треугольник.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Билет\Треугольник\Треугольник\obj\x86\Debug\Треугольник.Properties.Resources.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Билет\Треугольник\Треугольник\obj\x86\Debug\Треугольник.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Билет\Треугольник\Треугольник\obj\x86\Debug\Треугольник.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Билет\Треугольник\Треугольник\obj\x86\Debug\Треугольник.pdb
